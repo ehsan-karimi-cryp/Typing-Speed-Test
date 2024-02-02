@@ -1,0 +1,62 @@
+@media (min-width: 768px) {
+  .header-title {
+    width: 50%;
+  }
+  .text-that-should-be-typed {
+    width: 60%;
+  }
+  .type-text {
+    width: 50%;
+  }
+  .numbers-and-restart-button {
+    width: 50%;
+  }
+  .numbers {
+    font-size: 1.8rem;
+  }
+}
+@media (min-width: 1440px) {
+  .header-title {
+    font-size: 1.8rem;
+  }
+  .text-that-should-be-typed {
+    margin-top: 5rem;
+  }
+  .type-text {
+    width: 40%;
+    font-size: 1.8rem;
+  }
+  .numbers-and-restart-button {
+    width: 40%;
+  }
+  .numbers {
+    font-size: 2.5rem;
+  }
+  .restart-button {
+    padding: 1.1rem 2.1rem;
+  }
+}
+@media (min-width: 2560px) {
+  .header-title {
+    padding: 3rem;
+  }
+  .header-title {
+    font-size: 3rem;
+  }
+  .text-that-should-be-typed {
+    font-size: 3rem;
+  }
+  .type-text {
+    font-size: 3rem;
+  }
+  .numbers-and-restart-button {
+    margin-top: 3rem;
+  }
+  .numbers {
+    font-size: 4rem;
+  }
+  .restart-button {
+    padding: 2rem 3rem;
+    font-size: 3rem;
+  }
+}
